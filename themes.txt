@@ -1,0 +1,6 @@
+name="Arctic Horizon"
+url="https://jurialmunkey.github.io/repository.jurialmunkey/repository.jurialmunkey-2.2.zip"
+icon="http://"
+fanart="http://"
+adult="no"
+description="A short description of the theme."
